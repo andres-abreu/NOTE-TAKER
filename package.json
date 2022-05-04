@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andres-abreu/NOTE-TAKER/issues"
   },
-  "homepage": "https://github.com/andres-abreu/NOTE-TAKER#readme"
+  "homepage": "https://github.com/andres-abreu/NOTE-TAKER#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
