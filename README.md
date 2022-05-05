@@ -1,5 +1,7 @@
 # NOTE-TAKER
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## IMAGE-PREVIEW
+![Screen Shot 2022-05-05 at 4 23 11 AM](https://user-images.githubusercontent.com/94572199/166886990-970f9a58-7f7e-4dc9-99fa-c66095f093ca.png)
 ## FOR THE TABLE OF THE CONTENTS.
 * Description
 * Installation/running-instructions
@@ -14,8 +16,4 @@
 2. Type and run node index on your terminal
 
 ## DEMONSTRATION
-
-## IMAGE-PREVIEW
-
-
-## FUNCTION
+https://user-images.githubusercontent.com/94572199/166890413-c29dba30-f850-47bf-af74-330a3498dedd.mov
