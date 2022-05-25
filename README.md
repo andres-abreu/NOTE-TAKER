@@ -17,3 +17,6 @@
 
 ## DEMONSTRATION
 https://user-images.githubusercontent.com/94572199/166890413-c29dba30-f850-47bf-af74-330a3498dedd.mov
+
+## DEPLOYED-LINK
+CLICK [HERE](https://glacial-wildwood-22711.herokuapp.com/)
