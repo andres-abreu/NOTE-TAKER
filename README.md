@@ -9,7 +9,7 @@
 * Image-preview
 * Function
 ## DESCRIPTION
-* This is a simple note-taking-app that can save and retreive data from a JSON-file using express.js on the back-end.
+* This is a simple note-taking-app that can save and retrieve data from a JSON-file using express.js on the back-end.
 
 ## INSTALL/RUN-DIRECTIONS
 1. Install node js on your terminal
