@@ -31,4 +31,9 @@ https://user-images.githubusercontent.com/94572199/166890413-c29dba30-f850-47bf-
 ## DEPLOYED-LINK
 CLICK [HERE](https://glacial-wildwood-22711.herokuapp.com/)
   
+<div id="badges">
+  <br/>
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="GH-count"/>
+  </div>
   
